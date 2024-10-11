@@ -1,0 +1,20 @@
+h1,
+h2,
+h2,
+h4,
+h5,
+.btn {
+    font-family: "Libre Baskerville", serif;
+}
+
+body {
+    font-family: "Glass Antiqua", cursive;
+
+}
+
+.sfondoprimasezione {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./DSC_04072-720x477.jpeg);
+}
